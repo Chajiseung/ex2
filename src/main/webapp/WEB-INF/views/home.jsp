@@ -18,6 +18,7 @@
 		<li>choa</li>
 		<li>BUGFIX_1</li>
 		<li>bugfix_2</li>
+		<li>master</li>
 	</ul>
 </body>
 </html>
